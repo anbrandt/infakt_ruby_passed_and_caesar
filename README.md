@@ -1,3 +1,8 @@
+Zadanie rekrutacyjne do Warsztatów InFatk Ruby on Rails. 
+Autor: Andrzej Brandt (andrzej.brandt@gmail.com)
+
+
+
 ## Zadania do realizacji
 
 ## 1. Pogrupuj studentów na “zdanych i oblanych”

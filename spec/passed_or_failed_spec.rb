@@ -1,4 +1,4 @@
-require 'spec_helper'
+require '/home/andrzej/dev/00_RUBY/infakt_workshops/task01a/infakt_ror_battleground/spec/spec_helper.rb'
 
 describe PassedOrFailed do
   subject { described_class.new(results, threshold).perform }

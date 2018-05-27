@@ -24,6 +24,3 @@ class PassedOrFailed
   end
 end
 
-hash = { 'Mark' => '10', 'Ellen' => 65, 'Roger' => '20', 'Mike' => 70, 'Dan' => 99, 'Witt' => 10 }
-
-puts PassedOrFailed.new(hash, '55').perform
